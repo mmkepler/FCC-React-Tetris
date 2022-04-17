@@ -1,6 +1,6 @@
 {
   "name": "tetris",
-  "homepage": "https://missarachnid.github.io/react-tetris-game/",
+  "homepage": "https://missarachnid.github.io/FCC-React-Tetris/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
